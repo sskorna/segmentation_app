@@ -12,8 +12,8 @@ library(arules)
 # Loading predefined functions from SegmentsUtil
 library(SegmentsUtil)
 
-source("auth_module.R")
-source("pwc.R")
+source("auth_module.r")
+source("pwc.r")
 
 user_base <- tibble::tibble(
     user = c("admin", "user"),
