@@ -2,7 +2,7 @@
 library(shiny)
 library(shinydashboard)
 library(dashboardthemes)
-library(tidyverse)
+library(dplyr)
 library(digest)
 library(shinyjs)
 library(DT)
