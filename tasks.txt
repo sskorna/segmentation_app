@@ -1,0 +1,9 @@
+Segmentation App
+
+-- handle NAs - at the moment only dropping NAs 
+
+-- nicer tables  from formattable - bookmarked
+-- background in fluidrows
+-- error messages in segments tab
+
+-- deploy - containerized or on VM ? 

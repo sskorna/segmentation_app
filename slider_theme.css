@@ -1,0 +1,14 @@
+::selection {
+    background: #EB8C00
+}
+
+::-moz-selection {
+    background: #EB8C00
+}
+
+.irs-single {background: #EB8C00}
+
+[class|="irs-bar"] {
+    background: #EB8C00;
+    border: #EB8C00
+}
